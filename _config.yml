@@ -29,10 +29,6 @@ contact_urls:
     url: "https://www.linkedin.com/in/pieterherroelen"
     label: "LinkedIn"
     icon: "linkedin-square"
-  slideshare:
-    url: "https://www.slideshare.net/pieterherroelen"
-    label: "SlideShare"
-    icon: "slideshare"
   github:
     url: "https://github.com/piether/"
     label: "GitHub"
