@@ -4,13 +4,12 @@ url: "https://www.piether.be"
 # Internal nav
 nav:
   main:
-    writing: "/writing"
-    speaking: "/speaking"
-    projects: "/projects"
+    blog: "/"
+    about: "/about"
   writing:
-    all: "/writing"
-    popular: "/writing/popular"
-    tags: "/writing/tags"
+    all: "/"
+    popular: "/popular"
+    tags: "/tags"
     rss: "/feed.xml"
 
 # Bio settings
