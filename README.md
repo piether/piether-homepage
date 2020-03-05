@@ -1,6 +1,6 @@
 # piether.be Home Page
 
-This is the code for the [Pieter Herroelen Home Page](https://www.piether.be). This is based on [Yevgeniy Brikman Home Page](https://www.ybrikman.com). You can find the original repo [on GitHub](https://github.com/brikis98/brikman-homepage)
+This is the code for the [Pieter Herroelen Home Page](https://www.piether.be). This is based on [Yevgeniy Brikman Home Page](https://www.ybrikman.com). You can find the original repo [on GitHub](https://github.com/brikis98/yevgeniy-brikman-homepage)
 
 ## Quick start
 
