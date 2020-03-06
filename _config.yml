@@ -16,7 +16,7 @@ nav:
 name: "Pieter Herroelen"
 description: "The home page of Pieter Herroelen"
 thumbnail_path: "profile-photos/pieter-herroelen-small.jpg"
-website_repo_url: "https://github.com/piether/piether-homepage"
+website_repo_url: "https://github.com/piether/piether.github.io
 
 # URLs
 contact_urls:
@@ -48,7 +48,7 @@ sass:
   style: :compressed
 highlighter: rouge
 timezone: "Europe/Brussels"
-repository: piether/piether-homepage
+repository: piether/piether.github.io
 
 # Plugins (GitHub Pages only support a few)
 gems:
